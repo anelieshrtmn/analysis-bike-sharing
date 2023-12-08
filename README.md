@@ -2,9 +2,9 @@
 
 ## Setup Environment 
 
-`conda activate main-ds`
-
-`pip install numpy pandas matplotlib seaborn streamlit babel`
+```bash
+conda activate main-ds
+pip install numpy pandas matplotlib seaborn streamlit babel
 
 ## Run Streamlit App
 
